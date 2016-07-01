@@ -409,6 +409,15 @@ body {
 	background-image: url(../assets/healthcare.jpg);
 	color:#fff;
 }
+.bg-social{
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+  padding-top: 220px;
+  background-image: url(../assets/social.jpg);
+  color:#fff;
+}
 footer{
 	background-color: #eee;
 }
@@ -448,4 +457,7 @@ dd{
 }
 .list-inline li{
   border-right: solid 2px #009f3c; 
+}
+.white{
+  color: #ffffff;
 }
